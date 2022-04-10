@@ -1,4 +1,6 @@
- # Courier Prime
+DEPRECATED
+
+# Courier Prime
 | ![arcade-Courier-Prime](https://user-images.githubusercontent.com/49529648/152655061-72a1a339-0b71-4817-9b46-ab5bea41e461.png) |
 | :--: |
 | **Courier Prime v1.1.0** |
